@@ -7,7 +7,7 @@ body{
 }
 .btn{
     padding: 15px 40px;
-    background: rgb(209, 142, 18);
+    background: rgb(216, 101, 34);
     font-size: 18px;
     color: #fff;
     text-decoration: none;
@@ -30,6 +30,18 @@ body{
 .mission-part-haif h1{
      font-size: 60px;
      text-transform: capitalize;
+     position: relative;
+     padding-left: 10px;
+}
+
+.mission-part-haif h1::after{
+    position: absolute;
+    top: 0;
+    content: "";
+    left: -2%;
+    width: 5px;
+    height: 130px;
+    background: chocolate;
 }
 
 
