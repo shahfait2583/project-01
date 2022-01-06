@@ -156,6 +156,43 @@ body{
 
 /* part four end */
 
+/* part five start */
+
+#area-five{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-bottom: 50px;
+}
+#area-five h2{
+    font-size: 45px;
+}
+.news-area{
+    display: flex;
+}
+
+.news-area-part{
+    width: 30%;
+    margin-right: 5%;
+    
+}
+
+.news-area-part img{
+    width: 100%;
+}
+.news-area-part a{
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+.news-area-part p{
+  font-style: italic;
+  color: rgb(141, 141, 141);
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+/* part five end */
+
 /* footer part start */
 
 #footer-area {
@@ -177,3 +214,4 @@ body{
     font-size: 18px;
     margin-top: -30px;
 }
+/* footer part end */
