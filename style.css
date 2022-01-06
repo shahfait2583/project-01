@@ -1,3 +1,55 @@
 body{
     margin: 0;
+    
 }
+
+/* area one start */
+
+.mission-part{
+    display: flex;
+}
+
+.mission-part-haif{
+    width: 40%;
+    padding: 5%;
+    
+}
+
+.mission-part-haif h1{
+     font-size: 60px;
+     text-transform: capitalize;
+}
+.mission-part-haif span{
+    color: rgba(255, 166, 0, 0.781);
+}
+
+.mission-part-haif p{
+   line-height: 1.4;
+   font-size: 18px;
+   margin-bottom: 30px;
+}
+
+.mission-part-haif a{
+    padding: 10px 40px;
+    background: rgb(209, 142, 18);
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+
+.mission-part-haif h5{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+.mission-part-haif img{
+    width: 80%;
+}
+
+
+/* part one end */
+
+
+/* part two start */
